@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PixFlighSlider</string>
+    <string name="slide1_titulo">Use seu drone onde você quiser!</string>
+    <string name="slide1_descricao">Simples e fácil de usar</string>
+    <string name="slide2_titulo">Controle seu drone através de missões</string>
+    <string name="slide2_descricao">Criando suas missões e acompanhando o seu vôo</string>
+    <string name="slide3_titulo">Telemetria completa ao seu alcance</string>
+    <string name="slide3_descricao">Trabalhe de forma mais inteligente com dados do drone</string>
+</resources>
